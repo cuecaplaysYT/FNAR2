@@ -40,3 +40,10 @@ instance_create_layer(704, 352, "Instances", obj_phone);
 /// @DnDArgument : "objind" "obj_phone_button2"
 /// @DnDSaveInfo : "objind" "obj_phone_button2"
 instance_change(obj_phone_button2, true);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3D6A5E75
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "global.phoneup1"
+global.phoneup1 = true;

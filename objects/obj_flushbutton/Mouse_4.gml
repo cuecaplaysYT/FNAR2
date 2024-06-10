@@ -1,27 +1,15 @@
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 40E91EFC
-/// @DnDArgument : "objectid" "obj_vent1"
-/// @DnDSaveInfo : "objectid" "obj_vent1"
-instance_create_layer(0, 0, "Instances", obj_vent1);
+/// @DnDArgument : "xpos" "672"
+/// @DnDArgument : "ypos" "224"
+/// @DnDArgument : "objectid" "obj_ventgif"
+/// @DnDSaveInfo : "objectid" "obj_ventgif"
+instance_create_layer(672, 224, "Instances", obj_ventgif);
 
-/// @DnDAction : YoYo Games.Instances.Change_Instance
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
-/// @DnDHash : 1B836190
-/// @DnDArgument : "objind" "obj_vent127"
-/// @DnDSaveInfo : "objind" "obj_vent127"
-instance_change(obj_vent127, true);
-
-/// @DnDAction : YoYo Games.Instances.Change_Instance
-/// @DnDVersion : 1
-/// @DnDHash : 3A419AE9
-/// @DnDArgument : "objind" "obj_vent12728"
-/// @DnDSaveInfo : "objind" "obj_vent12728"
-instance_change(obj_vent12728, true);
-
-/// @DnDAction : YoYo Games.Instances.Change_Instance
-/// @DnDVersion : 1
-/// @DnDHash : 485613F5
-/// @DnDArgument : "objind" "obj_vent1272829"
-/// @DnDSaveInfo : "objind" "obj_vent1272829"
-instance_change(obj_vent1272829, true);
+/// @DnDHash : 764DE3EB
+/// @DnDArgument : "steps" "120"
+/// @DnDArgument : "alarm" "1"
+alarm_set(1, 120);

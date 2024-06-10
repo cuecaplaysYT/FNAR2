@@ -1,0 +1,1 @@
+draw_text(obj_stopwatch.x,obj_stopwatch.y,string(global.sec div 60) + ":" + string(global.sec mod 60))
