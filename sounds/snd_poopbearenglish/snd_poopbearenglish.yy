@@ -12,8 +12,8 @@
   "duration":1.582167,
   "name":"snd_poopbearenglish",
   "parent":{
-    "name":"sounds",
-    "path":"folders/sounds.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

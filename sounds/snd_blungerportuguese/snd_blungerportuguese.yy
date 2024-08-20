@@ -12,8 +12,8 @@
   "duration":3.683265,
   "name":"snd_blungerportuguese",
   "parent":{
-    "name":"sounds",
-    "path":"folders/sounds.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

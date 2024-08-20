@@ -12,8 +12,8 @@
   "duration":17.606531,
   "name":"snd_realitylog1english",
   "parent":{
-    "name":"sounds",
-    "path":"folders/sounds.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_phoneguy1english_v2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":51.696327,
+  "name":"snd_phoneguy1english_v2",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_phoneguy1english_v2.mp3",
+  "type":0,
+  "volume":1.0,
+}

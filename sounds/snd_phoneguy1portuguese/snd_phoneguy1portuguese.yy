@@ -12,8 +12,8 @@
   "duration":61.309387,
   "name":"snd_phoneguy1portuguese",
   "parent":{
-    "name":"sounds",
-    "path":"folders/sounds.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

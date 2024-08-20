@@ -2,9 +2,9 @@
   "$GMObject":"",
   "%Name":"obj_logo",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_logo",
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_logo",
-    "path":"sprites/spr_logo/spr_logo.yy",
+    "name":"spr_logonew",
+    "path":"sprites/spr_logonew/spr_logonew.yy",
   },
   "spriteMaskId":null,
   "visible":true,

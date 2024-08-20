@@ -12,8 +12,8 @@
   "duration":3.970612,
   "name":"snd_toiletunnyportuguese",
   "parent":{
-    "name":"sounds",
-    "path":"folders/sounds.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

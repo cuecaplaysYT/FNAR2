@@ -2,13 +2,13 @@
   "$GMObject":"",
   "%Name":"obj_button_quit5657",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":5,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":5,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_button_quit5657",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Jogar em portugues",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Portugues",},
   ],
   "parent":{
     "name":"Objetos",

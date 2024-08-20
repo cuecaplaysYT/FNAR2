@@ -27,9 +27,9 @@ if global.language = false
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1
 /// @DnDHash : 0AEE1A1C
-/// @DnDArgument : "soundid" "snd_realitylog1portuguese"
-/// @DnDSaveInfo : "soundid" "snd_realitylog1portuguese"
-audio_play_sound(snd_realitylog1portuguese, 0, 0, 1.0, undefined, 1.0);
+/// @DnDArgument : "soundid" "snd_realitylog1portuguese_v2"
+/// @DnDSaveInfo : "soundid" "snd_realitylog1portuguese_v2"
+audio_play_sound(snd_realitylog1portuguese_v2, 0, 0, 1.0, undefined, 1.0);
 
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
@@ -40,9 +40,9 @@ if global.language = true
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1
 /// @DnDHash : 41D1C8A5
-/// @DnDArgument : "soundid" "snd_realitylog1english"
-/// @DnDSaveInfo : "soundid" "snd_realitylog1english"
-audio_play_sound(snd_realitylog1english, 0, 0, 1.0, undefined, 1.0);
+/// @DnDArgument : "soundid" "snd_realitylog1english_v2"
+/// @DnDSaveInfo : "soundid" "snd_realitylog1english_v2"
+audio_play_sound(snd_realitylog1english_v2, 0, 0, 1.0, undefined, 1.0);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

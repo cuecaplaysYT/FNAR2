@@ -12,8 +12,8 @@
   "duration":120.024,
   "name":"snd_byyoursideuntiltheend",
   "parent":{
-    "name":"sounds",
-    "path":"folders/sounds.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
