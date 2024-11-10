@@ -11,6 +11,7 @@
     {"name":"inst_1CCF438B","path":"rooms/rm_clockminigame/rm_clockminigame.yy",},
     {"name":"inst_53B624E6","path":"rooms/rm_clockminigame/rm_clockminigame.yy",},
     {"name":"inst_50E5C507","path":"rooms/rm_clockminigame/rm_clockminigame.yy",},
+    {"name":"inst_32A16D94","path":"rooms/rm_clockminigame/rm_clockminigame.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -20,6 +21,7 @@
         {"$GMRInstance":"v1","%Name":"inst_1CCF438B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1CCF438B","objectId":{"name":"obj_stopwatchstop","path":"objects/obj_stopwatchstop/obj_stopwatchstop.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.6666666,"scaleY":1.0,"x":810.0,"y":415.0,},
         {"$GMRInstance":"v1","%Name":"inst_53B624E6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_53B624E6","objectId":{"name":"obj_instructions_3","path":"objects/obj_instructions_3/obj_instructions_3.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":128.0,},
         {"$GMRInstance":"v1","%Name":"inst_50E5C507","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_50E5C507","objectId":{"name":"obj_instructions_5","path":"objects/obj_instructions_5/obj_instructions_5.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":192.0,},
+        {"$GMRInstance":"v1","%Name":"inst_32A16D94","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_32A16D94","objectId":{"name":"obj_update","path":"objects/obj_update/obj_update.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":992.0,"y":128.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190335,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

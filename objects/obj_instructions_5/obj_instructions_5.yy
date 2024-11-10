@@ -9,7 +9,7 @@
   "managed":true,
   "name":"obj_instructions_5",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Clique no botão direito de baixo do relógio para parar o relogio e terminar a demo",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Clique no botao direito de baixo do relogio para avancar.",},
   ],
   "parent":{
     "name":"Objetos",

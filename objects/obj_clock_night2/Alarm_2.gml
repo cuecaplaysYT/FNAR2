@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Instances.Change_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 1DE25ADD
-/// @DnDApplyTo : {obj_clock}
+/// @DnDHash : 2E3CFC14
+/// @DnDApplyTo : {obj_clock_night2}
 /// @DnDArgument : "objind" "obj_clock2night2"
 /// @DnDSaveInfo : "objind" "obj_clock2night2"
-with(obj_clock) instance_change(obj_clock2night2, true);
+with(obj_clock_night2) instance_change(obj_clock2night2, true);

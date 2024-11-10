@@ -9,7 +9,7 @@
   "managed":true,
   "name":"obj_instructions_3",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Click the right down clock button to stop the clock and end the demo",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Click the right down clock button to progress.",},
   ],
   "parent":{
     "name":"Objetos",

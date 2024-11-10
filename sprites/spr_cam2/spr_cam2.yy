@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"spr_cam2",
   "bboxMode":0,
-  "bbox_bottom":63,
+  "bbox_bottom":56,
   "bbox_left":4,
   "bbox_right":62,
   "bbox_top":19,

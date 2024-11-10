@@ -12,3 +12,10 @@ with(obj_doorclosed2) vspeed = -10;
 /// @DnDArgument : "objind" "obj_button2close"
 /// @DnDSaveInfo : "objind" "obj_button2close"
 instance_change(obj_button2close, true);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 1C7697D5
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "global.doorclose2"
+global.doorclose2 = false;

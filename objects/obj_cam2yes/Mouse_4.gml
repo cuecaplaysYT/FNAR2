@@ -17,7 +17,7 @@ with(obj_phonecam) instance_destroy();
 /// @DnDVersion : 1
 /// @DnDHash : 6902A3E7
 /// @DnDApplyTo : {obj_phonecam3}
-with(obj_phonecam3) instance_destroy();
+with(obj_phonecam_3) instance_destroy();
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1

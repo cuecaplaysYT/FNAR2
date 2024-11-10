@@ -5,7 +5,7 @@
 /// @DnDArgument : "ypos" "352"
 /// @DnDArgument : "objectid" "obj_phonecam3"
 /// @DnDSaveInfo : "objectid" "obj_phonecam3"
-instance_create_layer(704, 352, "Instances", obj_phonecam3);
+instance_create_layer(704, 352, "Instances", obj_phonecam_3);
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1

@@ -1,13 +1,9 @@
-/// @DnDAction : YoYo Games.Rooms.Go_To_Room
-/// @DnDVersion : 1
-/// @DnDHash : 4E92AA83
-/// @DnDArgument : "room" "rm_thankyou_demo"
-/// @DnDSaveInfo : "room" "rm_thankyou_demo"
-room_goto(rm_thankyou_demo);
+room_goto(rm_thankyou);
 
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 44D4286E
-/// @DnDArgument : "expr" "false"
-/// @DnDArgument : "var" "global.officeout"
 global.officeout = false;
+
+if(!steam_get_achievement("Night_5")){
+	steam_set_achievement("Night_5");
+}
+
+global.power = 100;
