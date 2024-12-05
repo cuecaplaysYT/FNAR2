@@ -1,5 +1,3 @@
-global.camson = true;
-
 instance_create_layer(1888, 1620, "Instances", obj_cameramap);
 
 instance_create_layer(870, 512, "Instances", obj_cam1no);

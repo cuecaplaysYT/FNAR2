@@ -39,7 +39,3 @@ global.power = 100;
 global.poweroff = false;
 
 global.achievementsalldemo = 0;
-
-global.camson = false;
-
-global.phoneup1 = false

@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":13.296327,
+  "duration":11.937959,
   "name":"snd_realitylog5portuguese",
   "parent":{
     "name":"Sounds",

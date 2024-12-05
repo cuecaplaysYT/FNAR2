@@ -1,6 +1,6 @@
-audio_stop_sound(snd_easteregg);
+audio_stop_sound(snd_phoneguy2english);
 
-audio_stop_sound(snd_easteregg);
+audio_stop_sound(snd_phoneguy2portuguese);
 
 with(obj_audiotape_easteregg) instance_destroy();
 
